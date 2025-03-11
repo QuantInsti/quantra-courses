@@ -1,4 +1,4 @@
-> ⚠ **Note:** This repository is an **old version**. The latest version is maintained at [QuantInsti GitHub](https://github.com/QuantInsti).
+
 
 # Quantra Free Course and Source Repository 🎓
 
